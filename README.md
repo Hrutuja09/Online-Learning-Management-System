@@ -1,5 +1,6 @@
 # Online-Learning-Management-System
 The main aim of this system will be to make the learners and teachers life easier to organise the contents,  assignments, grading and gaining feedback on each assignment. This gives a personal touch with a  collaborative learning. Additionally, this system will be easily accessible to everyone from any location. 
+This project outlines the need of the system which consists of the system request, requirements gathering, usecase diagram, class diagram, object diagram and windows navigation diagram.
 ## Goals:  
 1. Course Creation and management: Instructors will be able to create courses, upload study materials, 
 create quizzes, tests and do online assessments.  
